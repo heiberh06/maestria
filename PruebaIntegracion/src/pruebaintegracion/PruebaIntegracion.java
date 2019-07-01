@@ -16,6 +16,7 @@ public class PruebaIntegracion {
      */
     public static void main(String[] args) {
         System.out.println("Primera version");
+        System.out.println("segunda version");
         // TODO code application logic here
     }
     
